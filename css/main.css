@@ -2344,7 +2344,7 @@ P.oz-body-wrap {
 }
 
 .contact-area .overlay-bg {
-    background: rgba(70,130,180, 0.85)
+    background: rgba(70, 130, 180, 0.85)
 }
 
 .contact-area h2 {
@@ -2565,7 +2565,6 @@ footer .footer-nav li a:hover {
     -ms-border-radius: 50%;
     border-color: #d73e4d;
     border-style: solid;
-    
 }
 
 .single-about-content {
@@ -2578,7 +2577,7 @@ footer .footer-nav li a:hover {
 }
 
 .about-area .overlay-bg {
-    background: rgba(70,130,180, 0.85)
+    background: rgba(70, 130, 180, 0.85)
 }
 
 .about-area h2 {
@@ -2627,4 +2626,3 @@ footer .footer-nav li a:hover {
     margin-top: 50px;
     z-index: 1
 }
-
